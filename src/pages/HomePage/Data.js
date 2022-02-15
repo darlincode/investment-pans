@@ -66,3 +66,18 @@ export const homeObjFour = {
   alt: 'Vault',
   start: 'true'
 };
+export const homeObjFive = {
+  primary: true,
+  lightBg: true,
+  lightTopLine: true,
+  lightText: true,
+  lightTextDesc: false,
+  topLine: "Most secure transactions",
+  headline: "All your transactions are beign handled by the best team",
+  description: "Your information and privacy is our top priority",
+  buttonLabel: "Start investing",
+  imgStart: "START BUILDING NOW",
+  img: require('../../images/meks.jpg'),
+  alt: "MONEY",
+  start: "false"
+};
